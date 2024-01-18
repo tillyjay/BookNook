@@ -1,0 +1,885 @@
+[
+{
+	"ranking": 1,
+	"title": "To Kill a Mockingbird",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+	"blurb": "A coming-of-age journey of Scout Finch in the racially charged American South as her father, lawyer Atticus Finch, defends an unjustly accused black man, exploring themes of morality and compassion.",
+  "author": {
+		"first_name": "Harper",
+		"last_name": "Lee",
+	  "birth_year": 1926,
+	  "nationality": "American",
+	  "image_url":	"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1593873322i/1825._UX200_CR0,38,200,200_.jpg",   	
+    "profile": "Is a renowned American author born in Monroeville, Alabama, Harper Lee captivated readers with her compelling storytelling and insightful exploration of societal issues. Interestingly, Lee's literary career includes a notable period of anonymity, heightening the mystique surrounding her impactful work."
+  },
+	"publication": { 
+		"year":1960,
+		"publisher": "HarperCollins"
+	},
+	"genres": [
+		"Fiction", 
+		"Classics", 
+		"Historical"
+	],
+	"number_of_pages": 323, 
+	"rating": 4.26,
+	"number_of_ratings": 5824110,
+	"literary_awards": [
+		"Pulitzer Prize for Fiction (1961)", 
+		"Audie Award for Classic (2007)", 
+		"National Book Award Finalist for Fiction (1961)",
+		"Alabama Author Award for Fiction (1961)"
+	]
+},
+
+{
+	"ranking": 2,
+	"title": "1984",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327144697i/3744438.jpg",
+	"blurb": "A dystopian masterpiece, portraying a nightmarish future where a totalitarian regime led by Big Brother employs pervasive surveillance and thought control to manipulate reality and crush dissent.",
+  "author": {
+		"first_name": "George",
+		"last_name":"Orwell",
+		"birth_year": 1903,
+		"nationality": "British",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1588856560i/3706._UX200_CR0,0,200,200_.jpg",
+    "profile": "Is a renowned English author born in Motihari, Bihar, India, George Orwell is celebrated for his insightful and prophetic works that scrutinize the dangers of totalitarianism and the erosion of individual freedoms. Notably, Orwell's experiences fighting in the Spanish Civil War and working as a journalist infused his writing with a keen awareness of political realities, making him a compelling voice for truth and social justice."
+  },
+	"publication": { 
+		"year":1949,
+		"publisher": "Secker & Warburg"
+	},
+	"genres": [
+		"Science Fiction", 
+		"Classics", 
+		"Dystopia"
+	],
+	"number_of_pages": 328, 
+	"rating": 4.19,
+	"number_of_ratings": 4333687,
+	"literary_awards": 	[
+		"Prometheus Hall of Fame Award (1984)", 
+		"Audie Award Nominee for Audio Drama (2023)"
+	]
+},
+
+{
+	"ranking": 3,
+	"title": "The Lord of the Rings",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1296933438i/15350.jpg",
+	"blurb": "A sweeping epic, that follows the perilous journey of a hobbit named Frodo Baggins as he and a diverse fellowship set out to destroy the One Ring and thwart the dark lord Sauron's plans to dominate Middle-earth.",
+  "author": {
+		"first_name": "J.R.R.",
+		"last_name": "Tolkien",
+		"birth_year": 1892,
+		"nationality": "British",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1648968349i/656983._UX200_CR0,44,200,200_.jpg",
+    "profile": "Is a legendary English author born in Bloemfontein, South Africa, J.R.R. Tolkien's unparalleled imagination crafted intricate fantasy worlds that captivate readers with their rich mythology and languages. Notably, Tolkien's academic background in philology, the study of languages, deeply influenced the creation of his fictional languages and the intricate linguistic tapestry woven into his iconic works."
+  },
+	"publication": { 
+		"year":1955,
+		"publisher": "Houghton Mifflin"
+	},
+	"genres": [
+		"Fantasy", 
+		"Fiction", 
+		"Classics"
+	],
+	"number_of_pages": 1216, 
+	"rating": 4.52,
+	"number_of_ratings": 655617,
+	"literary_awards": [
+		"Hugo Award Nominee for Best All-Time Series (1966)", 
+		" Prometheus Hall of Fame Award (2009)", 
+		"International Fantasy Award for Fiction (1957)",
+		"Books I Loved Nest Yearly Awards for Older Readers (2002)",
+		"Prix du Meilleur Livre Étranger for Roman (1972)",
+		" Nynorsk litteraturpris (2006)"
+	]
+},
+
+
+{
+	"ranking": 4,
+	"title": "The Catcher in the Rye",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+	"blurb": "A poignant odyssey of a disillusioned teenager who embarks on a turbulent journey through post-World War II America, grappling with the elusive nature of authenticity and the challenges of adolescence.",
+  "author": {
+		"first_name": "J.D.",
+	  "last_name": "Salinger",
+		"birth_year": 1919,
+  	"nationality": "American",
+		"image_url":  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1288777679i/819789._UX200_CR0,22,200,200_.jpg",  
+    "profile": "Is a reclusive American author born in New York City, J.D. Salinger's enigmatic persona and profound exploration of adolescent angst have left an indelible mark on 20th-century literature. Notably, Salinger's withdrawal from the public eye after achieving literary success has only added to the mystique surrounding his life and work."
+  },
+	"publication": { 
+		"year":1951,
+		"publisher": "Little Brown"
+	},
+	"genres": [
+		"Fiction", 
+		"Classics", 
+		"Young Adult"
+	],
+	"number_of_pages": 234, 
+	"rating": 3.80,
+	"number_of_ratings": 80122,
+	"literary_awards": [
+		"Teen Read Award Nominee for Best All-Time-Fave (2010)",
+		"National Book Award Finalist for Fiction (1952)"
+	]	
+},
+
+
+{
+	"ranking": 5,
+	"title": "The Great Gatsby",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg",
+	"blurb": "A mesmerizing exploration of the American Dream, the novel delves into the opulent and tumultuous world of Jay Gatsby, unraveling themes of love, wealth, and the pursuit of elusive aspirations against the backdrop of the Roaring Twenties.",
+  "author": {
+		"first_name": "F. Scott",
+		"last_name":"Fitzgerald",
+	  "birth_year": 1896,
+		"nationality": "American",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1517864008i/3190._UX200_CR0,42,200,200_.jpg",  
+    "profile": "Is an iconic American author born in St. Paul, Minnesota, F. Scott Fitzgerald is celebrated for his portrayal of the Jazz Age and his exploration of the American Dream in the early 20th century. Notably, Fitzgerald's personal life and experiences with wealth and excess mirrored the themes in his novels, contributing to his enduring influence on American literature."
+  },
+	"publication": { 
+		"year":1925,
+		"publisher": "Simon & Schuster"
+	},
+	"genres": [
+		"Fiction", 
+		"Classics", 
+		"Historical"
+	],
+	"number_of_pages": 180, 
+	"rating": 3.93,
+	"number_of_ratings": 4963395,
+	"literary_awards": [
+		"Grammy Award Nominee for Best Spoken Word Album (2003)", 
+		"Long Island Reads (2002)"
+	]
+},
+
+
+{
+	"ranking": 6,
+	"title": "The Lion, the Witch and the Wardrobe",
+	"cover_image_url": "https://img.thriftbooks.com/api/images/m/3998048f1a0400e615d5a07f56cb15406a45dfd4.jpg",
+	"blurb": "A captivating fantasy, it follows the enchanting adventures of four siblings who discover a magical world beyond the wardrobe, where they encounter the White Witch, Aslan the lion, and embark on a heroic quest to fulfill their destinies.",
+  "author": {
+		"first_name": "C.S",
+		"last_name":"Lewis",
+	  "birth_year": 1898,
+		"nationality": "Irish",
+		"image_url": "https://images.gr-assets.com/authors/1564671804p5/1069006.jpg",
+    "profile": "Is a influential British author born in Belfast, Ireland, C.S. Lewis is revered for his imaginative and allegorical works that continue to captivate readers of all ages. Notably, Lewis, a scholar of medieval and Renaissance literature, seamlessly blended his academic expertise with a vivid storytelling talent, creating enduring tales that resonate with themes of morality, faith, and the triumph of good over evil."
+  },
+	"publication": { 
+		"year":1950,
+	    "publisher": "Collier Books/Macmillan Publishing Company, Inc."
+	},
+	"genres": [
+		"Classics", 
+		"Fantasy", 
+		"Fiction"
+	],
+	"number_of_pages": 206, 
+	"rating": 4.23,
+	"number_of_ratings": 2671271,
+	"literary_awards": [
+		"Lewis Carroll Shelf Award (1962)", 
+		"Retro Hugo Award Nominee for Best Novel (2001)"
+	]
+},
+
+
+{
+	"ranking": 7,
+	"title": "Lord of the Flies",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327869409i/7624.jpg",
+	"blurb": "A harrowing tale of survival and human nature, it explores the dark descent into chaos as a group of boys stranded on a deserted island grapple with their inner demons and the unraveling of civilization.",
+  "author": {
+		"first_name": "William",
+		"last_name": "Golding",
+	  "birth_year": 1911,
+    "nationality": "British",
+    "image_url": "https://images.gr-assets.com/authors/1636107810p5/306.jpg",
+    "profile": "Is a distinguished English author born in Newquay, Cornwall, William Golding is acclaimed for his exploration of human nature and civilization's fragility in the face of primal instincts. Notably, Golding's experience as a schoolteacher influenced his profound understanding of human behavior, contributing to the depth and psychological insight evident in his compelling narratives."
+	},
+	"publication": { 
+		"year":1954,
+	    "publisher": "Faber and Faber"
+	},
+	"genres": [
+		"Fiction", 
+		"Classics", 
+		"Dystopia"
+	],
+	"number_of_pages": 182, 
+	"rating": 3.69,
+	"number_of_ratings": 2797055,
+	"literary_awards": [
+		"Nobel Prize in Literature (1983)"
+	]
+},
+
+
+{
+	"ranking": 8,
+	"title": "Animal Farm",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424037542i/7613.jpg",
+	"blurb": "An allegorical novella, it depicts the rise and fall of a group of farm animals who rebel against their human farmer, forming their own society and mirroring the pitfalls of political power and corruption.",
+  "author": {
+		"first_name": "George",
+		"last_name":"Orwell",
+	  "birth_year": 1903,
+	  "nationality": "British",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1588856560i/3706._UX200_CR0,0,200,200_.jpg",
+    "profile": "Is a renowned English author born in Motihari, Bihar, India, George Orwell is celebrated for his insightful and prophetic works that scrutinize the dangers of totalitarianism and the erosion of individual freedoms. Notably, Orwell's experiences fighting in the Spanish Civil War and working as a journalist infused his writing with a keen awareness of political realities, making him a compelling voice for truth and social justice."
+  },
+	"publication": { 
+		"year":1945,
+	    "publisher": "Secker and Warburg"
+	},
+	"genres": [
+		"Fiction", 
+		"Classics", 
+		"Politics"
+	],
+	"number_of_pages": 122, 
+	"rating": 3.98,
+	"number_of_ratings": 3680036,
+	"literary_awards": [
+		"Modern Library's 100 Best Novels NPR: 100 Best Science Fiction and Fantasy Books Hugo Award for Best Short Novel (1946) ", 
+		"Prometheus Award - Hall of Fame (2011)"
+	]
+},
+
+
+{
+	"ranking": 9,
+	"title": "Catch - 22",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463157317i/168668.jpg",
+	"blurb": "A satirical anti-war novel, it navigates the absurdities of bureaucracy and the paradoxical nature of military regulations through the experiences of Captain John Yossarian during World War II.",
+  "author": {
+		"first_name": "Joseph",
+		"last_name": "Heller",
+	  "birth_year": 1923,
+		"nationality": "American",
+	  "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1197308614i/3167._UX200_CR0,0,200,200_.jpg",
+    "profile": "Is an influential American author born in Brooklyn, New York, Joseph Heller is best known for his satirical and darkly comedic exploration of the absurdities of war. Notably, Heller's literary contribution has left an enduring impact, particularly through his groundbreaking novel, challenging conventional narrative structures and offering a unique perspective on the human experience."    
+  },
+	"publication": { 
+		"year":1961,
+		"publisher": "Simon & Schuster"
+	},
+	"genres": [
+		"Historical Fiction", 
+		"Classics", 
+		"Humor"
+	],
+	"number_of_pages": 453, 
+	"rating": 3.99,
+	"number_of_ratings": 814780,
+	"literary_awards": [
+		"National Book Award Finalist for Fiction (1962)"
+	]
+},
+
+
+{
+	"ranking": 10,
+	"title": "The Grapes of Wrath",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511302892i/4395.jpg",
+	"blurb": "A powerful exploration of the American Dust Bowl era, it follows the Joad family's arduous journey from the Oklahoma plains to California in search of a better life, exposing the hardships of poverty and the resilience of the human spirit.",
+  "author": {
+		"first_name": "John",
+		"last_name":"Steinbeck",
+	    "birth_year": 1902,
+		"nationality": "American",
+		"image_url": "https://images.gr-assets.com/authors/1182118389p5/585.jpg",
+    "profile": "Is a celebrated American author born in Salinas, California, John Steinbeck's literary prowess transcended genres, delving into the social and economic challenges faced by the common people during the Great Depression. Notably, Steinbeck's travels with migrant workers and his commitment to portraying their struggles provided the foundation for his impactful storytelling, earning him both critical acclaim and a Nobel Prize in Literature."
+  },
+	"publication": { 
+		"year":1939,
+		"publisher": "The Viking Press-"
+	},
+	"genres": [
+		"Fiction", 
+		"Classics", 
+		"Historical"
+	],
+	"number_of_pages": 323, 
+	"rating": 4.26,
+	"number_of_ratings": 5824110,
+	"literary_awards": [
+		"Pulitzer Prize for Novel (1940)", 
+		"National Book Award for Fiction (1939)",
+		"California Book Award for General Literature (Silver) (1939)", 
+		"Audie Award for Classic (1999)"
+	]
+},
+
+
+{
+	"ranking": 11,
+	"title": "Gone with the Wind",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551144577i/18405.jpg",
+	"blurb": "An epic historical romance, it unfolds against the backdrop of the American Civil War, chronicling the tumultuous life of Scarlett O'Hara as she navigates love, loss, and societal upheaval in the Southern United States.",
+  "author": {
+		"first_name": "Margaret",
+		"last_name": "Mitchell",
+		"birth_year": 1900,
+		"nationality": "American",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1185481392i/11081._UY200_CR48,0,200,200_.jpg",
+    "profile": "Is an esteemed American author born in Atlanta, Georgia, Margaret Mitchell's legacy is defined by her masterful storytelling and the creation of a timeless epic set against the backdrop of the American Civil War. Notably, Mitchell, a journalist by profession, wrote her Pulitzer Prize-winning novel as a passionate and private endeavor, capturing the hearts of readers worldwide with her vivid portrayal of characters and historical events."
+  },
+	"publication": { 
+			"year":1936,
+		  	"publisher": "Macmillan Publishers"
+	},
+	"genres": [
+		"Romance", 
+		"Classics", 
+		"Historical Fiction"
+	],
+	"number_of_pages": 1037, 
+	"rating": 4.31,
+	"number_of_ratings": 1189618,
+	"literary_awards": [
+		"Pulitzer Prize for Novel (1937)",
+		"National Book Award for Novel (1936)"
+	]
+},
+
+
+{
+	"ranking": 12,
+	"title": "Slaughterhouse-Five",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440319389i/4981.jpg",
+	"blurb": "An anti-war science fiction novel, it follows the unconventional experiences of Billy Pilgrim as he becomes \"unstuck in time,\" witnessing moments from his life, including the firebombing of Dresden during World War II.",
+  "author": {
+		"first_name": "Kurt Jr.",
+		"last_name": "Vonnegut",
+		"birth_year": 1922,
+		"nationality": "American",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1433582280i/2778055._UX200_CR0,51,200,200_.jpg",
+    "profile": "Is an iconic American author born in Indianapolis, Indiana, Kurt Vonnegut Jr. forged a literary legacy marked by satirical wit and a unique blend of humor and poignant social commentary. Notably, Vonnegut, a WWII veteran, drew from his experiences as a prisoner of war in Dresden to shape his anti-war perspectives, creating works that resonate with both depth and irreverence."
+  },
+	"publication": { 
+		"year":1969,
+	  "publisher": "Delacorte"
+	},
+	"genres": [
+		"Satire", 
+		"Science Fiction", 
+		"Postmodernism"
+	],
+	"number_of_pages": 275, 
+	"rating": 4.09,
+	"number_of_ratings": 1327484,
+	"literary_awards": [
+		"Hugo Award Nominee for Best SF Novel (1970)", 
+		"Nebula Award Nominee for Best Novel (1969)", 
+		"National Book Award Finalist for Fiction (1970)",
+		"Chicago Publishers' Award (1970)"
+	]
+},
+
+
+{
+	"ranking": 13,
+	"title": "One Flew Over the Cuckoo's Nest",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1516211014i/332613.jpg",
+	"blurb": "A psychological exploration into the lives of patients in a mental institution, led by rebellious McMurphy, bravely challenge authority, pondering the delicate boundary between sanity and insanity.",
+  "author": {
+		"first_name": "Ken",
+		"last_name": "Kesey",
+		"birth_year": 1935,
+	  "nationality": "American",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1363273797i/7285._UX200_CR0,35,200,200_.jpg",
+    "profile": "Is an American author born in La Junta, Colorado, Ken Kesey became a prominent figure in the counterculture movement of the 1960s, not only for his influential writings but also for his involvement in the psychedelic experiences known as the Merry Pranksters' bus trips. Notably, Kesey's adventurous spirit and exploration of altered states of consciousness became emblematic of the era, leaving an indelible mark on both literature and the cultural landscape of the time."
+  },
+	"publication": { 
+		"year":1962,
+		"publisher": "Viking Press & Signet Books"
+	},
+	"genres": [
+		"Tragedy", 
+		"Classics", 
+		"Fiction"
+	],
+	"number_of_pages": 325, 
+	"rating": 4.20,
+	"number_of_ratings": 715510,
+	"literary_awards": []
+},
+
+
+{
+	"ranking": 14,
+	"title": "A Clockwork Orange",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681066799i/227463.jpg",
+	"blurb": "A dystopian psychological novel, it follows the disturbing journey of Alex, a delinquent youth, through a society that employs aversion therapy to curb criminal behavior, raising ethical questions about free will and state control.",
+  "author": {
+		"first_name": "Anthony",
+		"last_name": "Burgess",
+		"birth_year": 1917,
+		"nationality": "British",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1484769559i/5735._UX200_CR0,50,200,200_.jpg",
+    "profile": "Is a versatile English author born in Manchester, Anthony Burgess showcased his literary prowess through novels, plays, and musical compositions, often exploring themes of free will, morality, and the power of language. Notably, Burgess, a polyglot and linguist, drew from his linguistic expertise to create inventive and richly textured narratives, contributing to his enduring impact on the world of literature."
+	},
+	"publication": { 
+		"year":1962,
+		"publisher": "W W Norton"
+	},
+	"genres": [
+		"Modern Classics", 
+		"Horror", 
+		"Science Fiction"
+	],
+	"number_of_pages": 192, 
+	"rating": 4.00,
+	"number_of_ratings": 693069,
+	"literary_awards": [
+		"Prometheus Hall of Fame Award (2008)"
+	]
+},
+
+
+
+{
+	"ranking": 15,
+	"title": "Lolita",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1377756377i/7604.jpg",
+	"blurb": "A controversial and introspective novel, it explores the morally fraught obsession of the protagonist with a young girl, delving into themes of manipulation, desire, and the dark corners of human psychology.",
+  "author": {
+		"first_name": "Vladimir",
+		"last_name": "Nabokov",
+		"birth_year": 1899,
+		"nationality": "Russian", 
+		"image_url": "https://images.gr-assets.com/authors/1651442178p5/5152.jpg",
+    "profile": "Is a prolific Russian-American author born in Saint Petersburg, Russia, Vladimir Nabokov's literary legacy is marked by his exquisite prose and intricate exploration of complex themes. Notably, Nabokov's passion for lepidoptery, the study of butterflies, manifested in his scientific contributions and influenced the symbolism in his writings, adding a distinctive layer to his multifaceted artistic pursuits."
+  },
+	"publication": { 
+		"year":1955,
+	   "publisher": "Olympia Press"
+	},
+	"genres": [
+		"Fiction", 
+		"Classics", 
+		"Romance"
+	],
+	"number_of_pages": 368, 
+	"rating": 3.88,
+	"number_of_ratings": 815650,
+	"literary_awards": [
+		"National Book Award Finalist for Fiction (1959)", 
+		"Premios Fervenzas Literarias for Traducción (2008)"
+	]
+},
+
+
+{
+	"ranking": 16,
+	"title": "Are You There God? It's Me, Margaret",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388356524i/37732.jpg",
+	"blurb": "A coming-of-age novel, it follows Margaret, a pre-adolescent girl, as she navigates the challenges of puberty, friendship, and her quest for identity while grappling with questions of faith and self-discovery.",
+  "author": {
+		"first_name": "Judy",
+		"last_name": "Blume",
+		"birth_year": 1938,
+		"nationality": "American", 
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1430843076i/12942._UX200_CR0,50,200,200_.jpg",
+    "profile": "Is an influential American author born in Elizabeth, New Jersey, Judy Blume is celebrated for her impactful contributions to young adult and children's literature, addressing important topics with empathy and honesty. Notably, Blume's commitment to addressing the often-taboo subjects in her books has earned her widespread acclaim for promoting open conversations about adolescence and family dynamics."
+  },
+	"publication": { 
+		"year":1970,
+	  "publisher": "Bradbury Press"
+	},
+	"genres": [
+		"Realistic Fiction", 
+		"Coming-of-age", 
+		"Contemporary"
+	],
+	"number_of_pages": 149, 
+	"rating": 3.94,
+	"number_of_ratings": 228744,
+	"literary_awards": [
+		"Young Hoosier Book Award (1976)", 
+		"Nene Award (1975)", 
+		"North Dakota Children's Choice Award (1979)",
+		"Golden Archer Award (1974)"
+	]
+},
+
+
+{
+	"ranking": 17,
+	"title": "Atonement",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320449708i/6867.jpg",
+	"blurb": "A poignant exploration of guilt and redemption, it traces the repercussions of a young girl's false accusation and its profound impact on the lives of those involved, unfolding against the backdrop of World War II and its aftermath.",
+  "author": {
+		"first_name": "Ian",  
+		"last_name": "McEwan",
+		"birth_year": 1948,
+		"nationality": "British",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1404240951i/2408._UY200_CR33,0,200,200_.jpg",
+    "profile": "Is a distinguished English author born in Aldershot, Hampshire, Ian McEwan is celebrated for his thought-provoking exploration of human relationships and moral dilemmas within the framework of compelling narratives. Notably, McEwan's literary prowess is complemented by his engagement with contemporary social and ethical issues, showcasing a commitment to weaving relevance and depth into his storytelling."
+  },
+	"publication": { 
+		"year":2001,
+	    "publisher": "Jonathan Cape"
+	},
+	"genres": [
+		"Contemporary", 
+		"Romance", 
+		"Historical Fiction"
+	],
+	"number_of_pages": 351, 
+	"rating": 3.93,
+	"number_of_ratings": 5824110,
+	"literary_awards": [
+		"Booker Prize Nominee (2001)", 
+		"James Tait Black Memorial Prize Nominee for Fiction (2001)", 
+		"Whitbread Award Nominee for Novel (2001)",
+		"WH Smith Literary Award (2002)",
+		"Los Angeles Times Book Prize for Fiction (2002)",
+		"Exclusive Books Boeke Prize (2002)",
+		"Deutscher Buchpreis (German Book Prize) for Internationale Belletristik (2003)",
+		"National Book Critics Circle Award for Fiction (2002)",
+		"Commonwealth Writers' Prize for Best Book in South Asia and Europe (2002)",
+		"Premi Llibreter de narrativa Nominee (2003)",
+		" Dublin Literary Award Nominee (2003)"
+	]
+},
+
+
+{
+	"ranking": 18,
+	"title": "Watchmen",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442239711i/472331.jpg",
+	"blurb": "A groundbreaking graphic novel, it deconstructs traditional superhero narratives, offering a complex and morally ambiguous exploration of power, morality, and the consequences of playing god in a world on the brink of nuclear conflict.",
+  "author": {
+		"first_name": "Alan",
+		"last_name":"Moore",
+		"birth_year": 1953,
+		"nationality": "British",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1304944713i/3961._UX200_CR0,14,200,200_.jpg",
+    "profile": "Is a visionary English author born in Northampton, Alan Moore is celebrated for his groundbreaking contributions to the comic book industry, introducing complex narratives and challenging the conventional superhero genre. Notably, Moore's unique approach to storytelling often delves into philosophical and societal themes, showcasing his profound influence on the evolution of graphic novels as a legitimate form of literary expression."
+  },
+	"publication": { 
+		"year":1987,
+	    "publisher": "DC Comics"
+	},
+	"genres": [
+		"Science Fiction", 
+		"Graphic Novels", 
+		"Dystopia"
+	],
+	"number_of_pages": 416, 
+	"rating": 4.38,
+	"number_of_ratings": 544913,
+	"literary_awards": [
+		"Hugo Award for Other Forms (1988)", 
+		"Locus Award for Best Non-Fiction/Art (1988)",
+		"Prix du Festival d'Angoulême for Alph-art du meilleur album étranger (1989)",
+		"Urhunden Prize for Foreign Album (1992)",
+		"Best Writer (for Alan Moore), Best Writer/Artist (single or team) (for Alan Moore & Dave Gibbons) (1988)",
+		"IGN Award for Best Collection (2005)"
+	]
+},
+
+
+{
+	"ranking": 19,
+	"title": "Never Let Me Go",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353048590i/6334.jpg",
+	"blurb": "A dystopian novel, it delves into the lives of clones raised to donate their organs, exploring themes of identity, love, and the ethical implications of scientific advancements.", 
+  "author": {
+		"first_name": "Kazuo",  
+		"last_name": "Ishiguro",
+		"birth_year": 1954,
+		"nationality": "Japanese", 
+		"image_url": "https://images.gr-assets.com/authors/1424906625p5/4280.jpg",
+    "profile": "Is a highly acclaimed British author born in Nagasaki, Japan, Kazuo Ishiguro's writing navigates themes of memory, identity, and the human experience with a nuanced and contemplative touch. Notably, Ishiguro's versatility extends beyond literature, as he has explored various forms of storytelling, including screenplay writing, demonstrating his creative breadth and impact in the literary world."
+	},
+	"publication": { 
+		"year":2005,
+	    "publisher": "Faber and Faber"
+	},
+	"genres": [
+		"Dystopia", 
+		"Science Fiction", 
+		"Contemporary"
+	],
+	"number_of_pages": 288, 
+	"rating": 3.84,
+	"number_of_ratings": 653298,
+	"literary_awards": [
+		"Booker Prize Nominee (2005)", 
+		"Locus Award Nominee for Best SF Novel (2006)", 
+		" Arthur C. Clarke Award Nominee (2006)",
+		"James Tait Black Memorial Prize Nominee for Fiction (2005),",
+		"ALA Alex Award (2006),",
+		"National Book Critics Circle Award Nominee for Fiction (2005)",
+		" Premio Novela Europea Casino de Santiago (2007)",
+		"Corine Internationaler Buchpreis for Belletristik (2006)",
+		"Dublin Literary Award Nominee (2007)"
+	]
+},
+
+
+{
+	"ranking": 20,
+	"title": "The African Trilogy #1 - Things Fall Apart",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1352082529i/37781.jpg",
+	"blurb": "A classic novel, it portrays the disintegration of traditional Igbo society as experienced by Okonkwo, a proud and complex protagonist, reflecting on the impact of colonialism and cultural upheaval.",
+  "author": {
+		"first_name": "Chinua",
+		"last_name": "Achebe",
+		"birth_year": 1930,
+		"nationality": "Nigerian",
+		"image_url": "https://images.gr-assets.com/authors/1473806077p5/8051.jpg",
+    "profile": "Is a renowned Nigerian author born in Ogidi, Chinua Achebe played a pivotal role in shaping African literature, skillfully addressing colonialism and its impact on indigenous cultures. Notably, Achebe was not only an influential writer but also a committed advocate for cultural and political change, actively engaging in discussions on post-colonial African identity."  
+	},
+	"publication": { 
+		"year":1958,
+	    "publisher": "William Heinemann Ltd."
+	},
+	"genres": [
+		"Historical Fiction", 
+		"Classics"
+	],
+	"number_of_pages": 215, 
+	"rating": 3.73,
+	"number_of_ratings": 356811,
+	"literary_awards": [
+		"Margaret Wong Memorial Prize (1959)"
+	]
+},
+
+
+{
+	"ranking": 21,
+	"title": "Invisible Man",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556482805i/16981.jpg",
+	"blurb": "A profound exploration of identity and racism, it follows the journey of an unnamed Black protagonist through a surreal and racially charged America, grappling with invisibility and the search for selfhood.",
+  "author": {
+		"first_name": "Ralph",  
+		"last_name":"Ellison",
+		"birth_year": 1913,
+		"nationality": "American", 
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1200336431i/7508._UX200_CR0,16,200,200_.jpg",
+    "profile": "Is a distinguished American author born in Oklahoma City, Ralph Ellison is celebrated for his contributions to African American literature, particularly his exploration of identity and social issues. Interestingly, Ellison's early experiences included working as a music critic, showcasing his multifaceted talents beyond the realm of fiction writing."
+  },
+	"publication": { 
+		"year":1952,
+	    "publisher": "Random House"
+	},
+	"genres": [
+		"African American", 
+		"Classics", 
+		"Historical Fiction"
+	],
+	"number_of_pages": 581, 
+	"rating": 3.91,
+	"number_of_ratings": 182546,
+	"literary_awards": [
+		"National Book Award for Fiction (1953)"
+	]
+},
+
+
+
+{
+	"ranking": 22,
+	"title": "Mrs. Dalloway",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646148221i/14942.jpg",
+	"blurb": "A modernist novel, it unfolds over the course of a single day in post-World War I London, intricately weaving together the inner thoughts and experiences of its characters, particularly the enigmatic Clarissa Dalloway.",
+  "author": {
+		"first_name": "Virginia",  
+		"last_name": "Woolf",
+		"birth_year": 1882,
+		"nationality": "British",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1419596619i/6765._UX200_CR0,36,200,200_.jpg",
+    "profile": "Is a pioneering English author born in London, Virginia Woolf revolutionized the literary landscape with her innovative narrative techniques and exploration of the inner lives of characters. Notably, Woolf was a central figure in the Bloomsbury Group, a gathering of influential intellectuals and artists, further highlighting her significant impact on the cultural and intellectual circles of her time."
+  },
+	"publication": { 
+		"year":1925,
+	    "publisher": "Hogarth Press"
+	},
+	"genres": [
+		"Fiction", 
+		"Classics", 
+		"Feminism"
+	],
+	"number_of_pages": 194, 
+	"rating": 3.79,
+	"number_of_ratings": 290113,
+	"literary_awards": []
+},
+
+
+{
+	"ranking": 23,
+	"title": "Beloved",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632283781i/6149.jpg",
+	"blurb": "A haunting and visceral exploration of the psychological wounds of slavery, it follows Sethe, an escaped enslaved woman, as she grapples with the haunting presence of her deceased daughter and the brutal history that binds them.",
+  "author": {
+		"first_name": "Toni",
+		"last_name": "Morrison",
+		"birth_year": 1931,
+		"nationality": "American",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1494211316i/3534._UX200_CR0,24,200,200_.jpg" ,
+    "profile": "Is a trailblazing American author born in Lorain, Ohio, Toni Morrison left an indelible mark on literature with her powerful exploration of African American experiences and the complexities of identity. Notably, Morrison, in addition to her remarkable literary achievements, was a distinguished editor, contributing to the amplification of marginalized voices in the literary world."
+  },
+	"publication": { 
+		"year":1987,
+		"publisher": "Alfred A. Knopf Inc."
+	},
+	"genres": [
+		"Historical Fiction", 
+		"Classics", 
+		"Magical Realism"
+	],
+	"number_of_pages": 324, 
+	"rating": 3.94,
+	"number_of_ratings": 415989,
+	"literary_awards": [
+		"Pulitzer Prize for Fiction (1988)", 
+		"American Book Award (1988)", 
+		"Anisfield-Wolf Book Award (1988)",
+		"National Book Critics Circle Award Nominee for Fiction (1987)",
+		"Frederic G. Melcher Book Award (1988)",
+		"National Book Award Finalist for Fiction (1987)"
+	]
+},
+
+
+{
+	"ranking": 24,
+	"title": "On the Road",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658929891i/70401.jpg",
+	"blurb": "A seminal work of the Beat Generation, it chronicles the frenetic cross-country travels of its narrator and his bohemian companions, embodying the spirit of spontaneous self-discovery and rebellion against societal norms.",
+  "author": {
+		"first_name": "Jack",
+		"last_name": "Kerouac",
+		"birth_year": 1922,
+		"nationality": "American",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1544568646i/1742._UX200_CR0,0,200,200_.jpg",
+    "profile": "Is an influential American author born in Lowell, Massachusetts, Jack Kerouac became a central figure in the Beat Generation, challenging literary norms with his spontaneous and vibrant writing style. Notably, Kerouac's own life mirrored the free-spirited ethos of his work, as he embarked on cross-country road trips that fueled his exploration of American culture and identity."
+  },
+	"publication": { 
+		"year":1957,
+		"publisher": "Viking Press"
+	},
+	"genres": [
+		"Beat", 
+		"Classics", 
+		"Fiction"
+	],
+	"number_of_pages": 307, 
+	"rating": 3.61,
+	"number_of_ratings": 399945,
+	"literary_awards": [
+		"Premio Ignotus (2008)", 
+		"Pulitzer Prize for Fiction (2007)", 
+		"National Book Award Finalist for Fiction"
+	]
+},
+
+
+{
+	"ranking": 25,
+	"title": "The Sun Also Rises",
+	"cover_image_url": "https://warblerpress.com/wp-content/uploads/2022/05/Hemingway-Sun-cover-half-o-scaled-800x1237.jpg",
+	"blurb": "A post-World War I novel, it captures the disillusionment of the \"Lost Generation\" as a group of expatriates engages in aimless pursuits and relationships, reflecting the existential void left by the war's aftermath.",
+  "author": {
+		"first_name": "Ernest",
+		"last_name": "Hemingway",
+		"birth_year": 1899,
+		"nationality": "American",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1654446435i/1455._UX200_CR0,25,200,200_.jpg",
+    "profile": "Is an iconic American author born in Oak Park, Illinois, Ernest Hemingway revolutionized literature with his succinct prose and profound exploration of the human condition. Notably, Hemingway's adventurous spirit extended beyond his writing, as he was a passionate aficionado of outdoor activities, including big-game hunting and deep-sea fishing."
+  },
+	"publication": { 
+		"year":1926,
+		"publisher": "Scribner's"
+	},
+	"genres": [
+	  "Historical Fiction", 
+		"Classics" 
+	],
+	"number_of_pages": 189, 
+	"rating": 3.80,
+	"number_of_ratings": 429653,
+	"literary_awards": []
+},
+
+{
+	"ranking": 26,
+	"title": "The Big Sleep",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371584712i/2052.jpg",
+	"blurb": "A hardboiled detective novel, it follows private investigator Philip Marlowe as he navigates the seedy underbelly of 1930s Los Angeles while unraveling a complex web of murder, deception, and corruption.",
+  "author": {
+		"first_name": "Raymond",
+		"last_name":"Chandler",
+		"birth_year": 1888,
+		"nationality": "American",
+		"image_url": "https://images.gr-assets.com/authors/1206535318p8/1377.jpg",
+    "profile": "Is a distinguished American-British author born in Chicago, Illinois, Raymond Chandler left an indelible mark on the detective fiction genre with his sharp wit and hardboiled narratives. Notably, Chandler's early career saw him working in the oil industry, adding a unique dimension to his eventual success as a masterful crime writer."
+  },
+	"publication": { 
+		"year": 1939,
+		"publisher": "Alfred A. Knopf"
+	},
+	"genres": [
+		"Mystery", 
+		"Fiction", 
+		"Classic"
+	],
+	"number_of_pages": 231, 
+	"rating": 3.96,
+	"number_of_ratings": 152088,
+	"literary_awards": 	[
+		"Anthony Award Nominee for Best Novel of the Century (2000)", 
+		"CWA Best Ever Nominee for Crime Novel (2013)"
+	]
+},
+
+
+{
+	"ranking": 27,
+	"title": "Possession",
+	"cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391124124i/41219.jpg",
+	"blurb": "A captivating exploration of academic rivalry and the intertwining of literature and life, it delves into the complex relationships between two scholars and their literary discoveries, blurring the lines between fiction and reality.",
+  "author": {
+		"first_name": "Antonia Susan",
+		"last_name":"Byatt",
+		"birth_year": 1936,
+		"nationality": "British",
+		"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/authors/1388376297i/1169504._UY200_CR26,0,200,200_.jpg",
+    "profile": "Is a celebrated English author born in Sheffield, A.S. Byatt has garnered acclaim for her rich and intricate storytelling, weaving together complex narratives that delve into the nuances of human relationships and intellect. Notably, Byatt's scholarly background in the field of academic study lends depth to her fiction, offering readers a unique blend of literary prowess and intellectual exploration."
+	},
+	"publication": { 
+		"year": 1990,
+		"publisher": "Chatto & Windus"
+	},
+	"genres": [
+		"Historical Fiction", 
+		"Romance",
+    "Mystery"
+	],
+	"number_of_pages": 555, 
+	"rating": 3.89,
+	"number_of_ratings": 79134,
+	"literary_awards": 	[
+    "Booker Prize (1990), Irish Times International Fiction Prize (1990)",
+    "Commonwealth Writers' Prize for Best Book in South Asia and Europe (1991)"
+	]
+}
+
+]

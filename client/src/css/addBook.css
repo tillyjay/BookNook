@@ -1,0 +1,17 @@
+
+
+#addBtn1, #addBtn2 {
+  display: inline-block;
+  transition: all 0.2s ease-in;
+  position: relative;
+  font-family: 'Satoshi', sans-serif;
+  margin: 10px;
+  color: #090909;
+  padding: .5em 1.5em;
+  font-size: .9em;
+  border-radius: 1em;
+  background: teal;
+  color: white !important;
+  box-shadow: 6px 6px 12px #201f1f,
+             5px 5px 12px #ffffff;
+}

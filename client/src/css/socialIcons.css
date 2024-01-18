@@ -1,0 +1,22 @@
+/* Social Icons Styling */ 
+
+.socialIcons {
+  margin: -40px 0 10px 0;
+  font-size: 2.5em;
+}
+
+.icon {
+  margin-right: 15px;
+}
+
+@media only screen and (min-width: 1024px) {
+
+.socialIcons {
+  margin: -40px 180px;
+  font-size: 2.5em;
+}
+
+.icon {
+  margin-right: 20px;
+}
+}

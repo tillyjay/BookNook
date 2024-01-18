@@ -1,0 +1,122 @@
+
+/* footer */
+
+.footerContainer {
+  padding: 2em;
+}
+
+.footerMain {
+
+  position: relative;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-image: url(https://images.unsplash.com/photo-1599488059966-a42a2ab36991?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUwfHxib29rc3xlbnwwfDB8MHx8fDA%3D);
+  opacity: 0.9;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px -8px 20px, rgba(0, 0, 0, 0.35) 0px -8px 10px -1px inset;
+  overflow: hidden; 
+  color: black;
+  transition: color 0.5s ease;
+  padding: 20px 40px 10px 40px; 
+}
+
+/* contents inside the footer */
+.footerMain p,
+.footerMain a {
+  color: white;
+  transition: color 0.5s ease;
+}
+
+.topBtn a {
+  display: inline-block;
+  transition: all 0.2s ease-in;
+  position: relative;
+  font-family: 'Satoshi', sans-serif;
+  overflow: hidden;
+  margin:0 -20px 40px 20px;
+  color: #090909;
+  padding: 0.4em 4em;
+  font-size: 16px;
+  border-radius: 1em;
+  background: teal;
+  color: white;
+  box-shadow: 6px 6px 12px #201f1f,
+             5px 5px 12px #ffffff;
+  padding: 10px;
+}
+
+
+
+
+.topBtn a:hover {
+  background-color: white !important;
+  color: teal !important;
+  text-decoration: none;
+}
+
+.copyLib {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-left: -30px;
+}
+
+
+
+@media only screen and (min-width: 1024px) {
+
+.footerMain {
+  position: relative;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px -8px 20px, rgba(0, 0, 0, 0.35) 0px -8px 10px -1px inset;
+  overflow: hidden; 
+  color: black;
+  transition: color 0.5s ease;
+  padding: 20px; 
+  
+}
+
+.footerMain::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  filter: grayscale(90%) blur(1.3px);
+  background-image: url(https://images.unsplash.com/photo-1599488059966-a42a2ab36991?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUwfHxib29rc3xlbnwwfDB8MHx8fDA%3D);
+  opacity: 0.9;
+  transition: filter 0.8s ease, opacity 0.8s ease;
+  z-index: -1;
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .2);
+}
+
+/* footer hover effect */
+.footerMain:hover::before {
+  filter: none;
+  opacity: 1;
+  transition: filter 0.8s ease, opacity 0.8s ease;
+}
+
+/* remove grayscale and blur on hover */
+.footerMain:hover {
+  filter: none;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px -3px 15px;
+}
+
+/* contents inside the footer */
+.footerMain .container {
+  position: relative;
+  z-index: 2;
+}
+.copyLib {
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-left: 150px;
+}
+
+.topBtn a {
+  margin-right: 150px;
+}
+
+}
+
