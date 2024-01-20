@@ -33,8 +33,10 @@ This project is a book libray React-based web application with CRUD operations a
 - Author CRUD: Allow users to add, edit, and delete author information.
 - Social Authentication: Provide users with the option to sign in using social media accounts.
 
-# Images
+## Live
+View live site on render: https://w0424641-fullstack.onrender.com
 
+# Images
 ### Landing Page View
 ![mainView](https://github.com/tillyjay/BookNook/assets/97525044/668fdc9f-1ea7-44d3-b276-e248f907a50d)
 
