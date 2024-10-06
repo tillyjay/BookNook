@@ -1,7 +1,7 @@
 # BookNook
 
 ## Book Library Web App
-This project is a book libray React-based web application with CRUD operations and search filter functionality. The app also use MongoDB for the backend, Bootstrap for responsiveness,  Users can seamlessly manage their digital library by adding, editing, and deleting books. The application also includes an author information modal accessed via the author button. Users must sign in to access the library's full functionality, and JSON Web Tokens (JWT) are utilized for secure authentication.
+This project is a book libray React-based web application with CRUD operations and search filter functionality.  The app uses MongoDB for the backend, and Bootstrap for responsiveness. Users can seamlessly manage their digital library by adding, editing, and deleting books along with updating their ratings. The application also includes an author information modal accessed via the author button. The application also includes an author information modal accessed via the author button. Users must sign in to access the library's full functionality, and JSON Web Tokens (JWT) are utilized for secure authentication.
 
 ## Features
 - User Authentication: Securely sign in or register to unlock the full potential of the library.
